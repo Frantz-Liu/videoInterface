@@ -1,6 +1,5 @@
 {
     "urls": [
-        // 240222
         {
             "url": "http://xutv.alwaysdata.net/xu1027.json",
             "name": "🆔网络收集"
@@ -25,7 +24,6 @@
             "url": "https://tvbox.cainisi.cf",
             "name": "🍆菜妮丝🍆"
         },
-        // 240226
         {
             "url": "https://agit.ai/wuheng42/wh/raw/branch/master/wh.txt",
             "name": "网络"
