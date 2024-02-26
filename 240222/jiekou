@@ -57,6 +57,62 @@
         {
             "url": "https://notabug.org/kite/wind/raw/master/wind.json",
             "name": "WIND"
-        }
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bigtangxi/yule/main/zdy.json",
+            "name": "自定义"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yudengcheng/ydcbox/main/ydc.json",
+            "name": "YDC"
+        },
+        {
+            "url": "http://mdxgh.dynv6.net/",
+            "name": "小干货"
+        },
+        {
+            "url": "https://gitee.com/wj0321/tvlive/raw/main/wj.json",
+            "name": "无界"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "摸鱼"
+        },
+        {
+            "url": "https://gitee.com/wj0321/tvlive/raw/main/wj.json",
+            "name": "无界"
+        },
+        {
+            "url": "https://download.kstore.space/download/4901/Pandora.json",
+            "name": "RTX"
+        },
+        {
+            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
+            "name": "翔翔"
+        },
+        {
+            "url": "https://agit.ai/abkier/tvbox-jihu/raw/branch/main/tv.txt",
+            "name": "LR"
+        },
+        {
+            "url": "https://agit.ai/asdz324/TVBox2/raw/branch/main/api.json",
+            "name": "城市"
+        },
+        {
+            "url": "https://agit.ai/yu/0/raw/branch/main/0.json",
+            "name": "YU"
+        },
+        {
+            "url": "https://notabug.org/kite/feng/raw/master/feng.json",
+            "name": "风"
+        },
+        {
+            "url": "https://chuanshuo.77blog.cn/tv.json",
+            "name": "传说"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json",
+            "name": "二哈"
+        },
     ]
 }
