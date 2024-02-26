@@ -1,108 +1,89 @@
 {
-    "urls": [
-        {
-            "url": "http://饭太硬.top/tv",
-            "name": "🍚饭太硬🍚"
-        },
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🌾小米线路🌾"
-        },
-        {
-            "url": "https://xhdwc.tk/0",
-            "name": "🚀Ray线路"
-        },
-        {
-            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-            "name": "🐬欧歌🐬"
-        },
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "🍆菜妮丝🍆"
-        },
-        {
-            "url": "https://agit.ai/wuheng42/wh/raw/branch/master/wh.txt",
-            "name": "网络"
-        },
-        {
-            "url": "http://39.101.135.137:8080/",
-            "name": "小白龙"
-        },
-        {
-            "url": "https://wds.ecsxs.com/230989.json",
-            "name": "春莹"
-        },
-        {
-            "url": "https://notabug.org/6320ka/wey8000/raw/bc8bbf0bd750b49358e51811bfaf7f7feb0e4c39/90000.json",
-            "name": "维他命"
-        },
-        {
-            "url": "https://notabug.org/6320ka/yyds9000/raw/master/yyds900.json",
-            "name": "维他命YYDS"
-        },
-        {
-            "url": "https://notabug.org/afecc/tvbox/raw/main/dfy.json",
-            "name": "德富苑"
-        },
-        {
-            "url": "https://notabug.org/kite/wind/raw/master/wind.json",
-            "name": "WIND"
-        },
-        {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bigtangxi/yule/main/zdy.json",
-            "name": "自定义"
-        },
-        {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yudengcheng/ydcbox/main/ydc.json",
-            "name": "YDC"
-        },
-        {
-            "url": "http://mdxgh.dynv6.net/",
-            "name": "小干货"
-        },
-        {
-            "url": "https://gitee.com/wj0321/tvlive/raw/main/wj.json",
-            "name": "无界"
-        },
-        {
-            "url": "http://我不是.摸鱼儿.top",
-            "name": "摸鱼"
-        },
-        {
-            "url": "https://gitee.com/wj0321/tvlive/raw/main/wj.json",
-            "name": "无界"
-        },
-        {
-            "url": "https://download.kstore.space/download/4901/Pandora.json",
-            "name": "RTX"
-        },
-        {
-            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
-            "name": "翔翔"
-        },
-        {
-            "url": "https://agit.ai/abkier/tvbox-jihu/raw/branch/main/tv.txt",
-            "name": "LR"
-        },
-        {
-            "url": "https://agit.ai/asdz324/TVBox2/raw/branch/main/api.json",
-            "name": "城市"
-        },
-        {
-            "url": "https://agit.ai/yu/0/raw/branch/main/0.json",
-            "name": "YU"
-        },
-        {
-            "url": "https://notabug.org/kite/feng/raw/master/feng.json",
-            "name": "风"
-        },
-        {
-            "url": "https://chuanshuo.77blog.cn/tv.json",
-            "name": "传说"
-        },
-        {
-            "url": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json",
-            "name": "二哈"
-        }
-    ]
+  "urls": [
+    {
+      "url": "http://饭太硬.top/tv",
+      "name": "🍚饭太硬🍚"
+    },
+    {
+      "url": "https://xhdwc.tk/0",
+      "name": "🚀Ray线路"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+      "name": "🐬欧歌🐬"
+    },
+    {
+            “url”： “http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2”，
+      "name": "🍆菜妮丝🍆"
+    },
+    {
+      "url": "https://agit.ai/wuheng42/wh/raw/branch/master/wh.txt",
+      "name": "网络"
+    },
+    {
+      "url": "https://notabug.org/6320ka/wey8000/raw/bc8bbf0bd750b49358e51811bfaf7f7feb0e4c39/90000.json",
+      "name": "维他命"
+    },
+    {
+      "url": "https://notabug.org/6320ka/yyds9000/raw/master/yyds900.json",
+      "name": "维他命YYDS"
+    },
+    {
+      "url": "https://notabug.org/afecc/tvbox/raw/main/dfy.json",
+      "name": "德富苑"
+    },
+    {
+      "url": "https://notabug.org/kite/wind/raw/master/wind.json",
+      "name": "WIND"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bigtangxi/yule/main/zdy.json",
+      "name": "自定义"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yudengcheng/ydcbox/main/ydc.json",
+      "name": "YDC"
+    },
+
+    {
+      "url": "https://gitee.com/wj0321/tvlive/raw/main/wj.json",
+      "name": "无界"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "摸鱼"
+    },
+    {
+      "url": "https://download.kstore.space/download/4901/Pandora.json",
+      "name": "RTX"
+    },
+    {
+      "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
+      "name": "翔翔"
+    },
+    {
+      "url": "https://agit.ai/abkier/tvbox-jihu/raw/branch/main/tv.txt",
+      "name": "LR"
+    },
+    {
+      “url”： “https://agit.ai/asdz324/TVBox2/raw/branch/main/api.json”，
+      "name": "城市"
+    },
+    {
+      "url": "https://agit.ai/yu/0/raw/branch/main/0.json",
+      "name": "YU"
+    },
+    {
+      "url": "https://notabug.org/kite/feng/raw/master/feng.json",
+      "name": "风"
+    },
+    {
+      "url": "https://chuanshuo.77blog.cn/tv.json",
+      "name": "传说"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json",
+      "name": "二哈"
+    }
+  ]
 }
