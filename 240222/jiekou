@@ -1,5 +1,7 @@
 {
-    "urls": [{
+    "urls": [
+        // 240222
+        {
             "url": "http://xutv.alwaysdata.net/xu1027.json ",
             "name": "🆔网络收集"
         },
@@ -16,16 +18,45 @@
             "name": "🚀Ray线路"
         },
         {
-            "url": "https://xhdwc.tk/0",
-            "name": "😈sou0😈"
-        }, 
-        {
             "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
             "name": "🐬欧歌🐬"
         },
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "🍆菜妮丝🍆"
+        },
+        // 240226
+        {
+            "url": "https://agit.ai/wuheng42/wh/raw/branch/master/wh.txt",
+            "name": "网络"
+        },
+        {
+            "url": "http://39.101.135.137:8080/",
+            "name": "小白龙"
+        },
+        {
+            "url": "https://wds.ecsxs.com/230989.json",
+            "name": "春莹"
+        },
+        {
+            "url": "https://notabug.org/6320ka/wey8000/raw/bc8bbf0bd750b49358e51811bfaf7f7feb0e4c39/90000.json",
+            "name": "维他命"
+        },
+        {
+            "url": "https://notabug.org/6320ka/yyds9000/raw/master/yyds900.json",
+            "name": "维他命YYDS"
+        },
+        {
+            "url": "https://notabug.org/6320ka/yyds9000/raw/master/yyds900.json",
+            "name": "维他命YYDS"
+        },
+        {
+            "url": "https://notabug.org/afecc/tvbox/raw/main/dfy.json",
+            "name": "德富苑"
+        },
+        {
+            "url": "https://notabug.org/kite/wind/raw/master/wind.json",
+            "name": "WIND"
         }
     ]
 }
