@@ -1,0 +1,27 @@
+{
+  "storeHouse": [{
+      "sourceName": "🍭热门推荐🍭",
+      "sourceUrl": "https://www.gitlink.org.cn/api/wxrj/wx/raw/yx.txt?ref=master"
+    },
+    {
+      "sourceName": "🍭聚合全网🍭",
+      "sourceUrl": "https://www.gitlink.org.cn/api/wxrj/wx/raw/jh.txt?ref=master"
+    },
+    {
+      "sourceUrl": "https://www.xn--rgv465a.top/无界多仓禁止贩卖",
+      "sourceName": "无界"
+    },
+    {
+      "sourceUrl": "http://小鱼干.摸鱼儿.top",
+      "sourceName": "摸鱼"
+    },
+    {
+      "sourceUrl": "http://itvbox.cc/可视仓库",
+      "sourceName": "云星论坛-多线"
+    },
+    {
+      "sourceUrl": "Frantz_Liu",
+      "sourceName": "24-07-25更新"
+    }
+  ]
+}
