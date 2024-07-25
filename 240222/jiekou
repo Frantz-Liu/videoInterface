@@ -32,18 +32,10 @@
       "name": "YDC-检查数据"
     },
 
-    {
-      "url": "https://www.xn--rgv465a.top/无界多仓禁止贩卖",
-      "name": "无界-多仓库"
-    },
-    {
-      "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "name": "无界-单啊仓库"
-    },
 
     {
-      "url": "http://小鱼干.摸鱼儿.top",
-      "name": "摸鱼-多线"
+      "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
+      "name": "无界-单仓库"
     },
     {
       "url": "https://chuanshuo.77blog.cn/tv.json",
@@ -52,10 +44,6 @@
     {
       "url": "http://itvbox.cc/云星日记",
       "name": "云星论坛-单接口"
-    },
-    {
-      "url": "http://itvbox.cc/可视仓库",
-      "name": "云星论坛-多线"
     }
   ]
 }
